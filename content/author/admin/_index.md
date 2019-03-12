@@ -74,7 +74,7 @@ interests = [
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/Daniel Lozano CV.pdf"
+   link = "files/CV.pdf"
 
 +++
 
