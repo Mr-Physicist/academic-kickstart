@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Barcelona"
   date_start = "2017-09-27"
   date_end = "2018-05-31"
-  description = """Developing new programs based in COBOL, SQL and Java for the client."""
+  description = "Developing new programs based in COBOL, SQL and Java for the client."
   Responsibilities include:
   
   * Programming COBOL & SQL
@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Barcelona"
   date_start = "2015"
   date_end = "2016"
-  description = """Helped and Tutored childrend with their school homework."""
+  description = "Helped and Tutored childrend with their school homework."
 
 +++
