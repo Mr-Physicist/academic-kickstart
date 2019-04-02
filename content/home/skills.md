@@ -31,12 +31,6 @@ weight = 30
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "90%"
-
-[[feature]]
-  icon = "atom"
-  icon_pack = "fas"
-  name = "Physcis"
-  description = "100%"  
+  description = "90%" 
 
 +++
