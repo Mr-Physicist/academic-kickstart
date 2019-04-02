@@ -22,10 +22,12 @@ date_format = "January 2006"
   title = "IT Consultant"
   company = "BetterCosultants"
   company_url = "http://www.betterconsultants.es/eng/"
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "CalifBarcelonaornia"
+  date_start = "2019-09-27"
+  date_end = "2018-06-01"
   description = """
+  Developing new programs based in COBOL, SQL and Java for the client.
+
   Responsibilities include:
   
   * Analysing
@@ -34,12 +36,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teacher"
+  company = "Psicoform"
+  company_url = "http://www.actiweb.es/psicoform/"
+  location = "Barcelona"
+  date_start = "2015-07-01"
+  date_end = "2016-01-01"
+  description = """Private lessons to High School students."""
 
 +++
