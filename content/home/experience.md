@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Barcelona"
   date_start = "2015-08-01"
   date_end = "2016-01-01"
-  description = "Helped and Tutored childrend with their school homework."
+  description = "Helped and tutored childrend with their school homework."
 
 +++
