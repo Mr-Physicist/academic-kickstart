@@ -16,10 +16,10 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Python"
-  description = "80%"
+  name = "R"
+  description = "90%"
   
 [[feature]]
   icon = "chart-line"
@@ -31,6 +31,6 @@ weight = 30
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "15%"
+  description = "10%"
 
 +++
