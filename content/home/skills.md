@@ -28,9 +28,15 @@ weight = 30
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+  description = "90%"
+
+[[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Physcis"
+  description = "100%"  
 
 +++
