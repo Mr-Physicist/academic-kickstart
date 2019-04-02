@@ -30,9 +30,9 @@ date_format = "January 2006"
 
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Programming in COBOL & SQL
+  * Documentation
+  * Migrating enviroment to the newest version
   """
 
 [[experience]]
