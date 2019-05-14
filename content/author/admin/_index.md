@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "AdS/CFT Correspondence",
+  "Gauge/Gravity Duality",
   "String/M Theory",
   "Early Universe Physics"
 ]
@@ -68,6 +68,11 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/Mr-Physicist"
+  
+  [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/daniel-lozano-gomez-89540063/?locale=en_US"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
