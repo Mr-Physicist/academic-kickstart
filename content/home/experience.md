@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2019-05-06"
   date_end = ""
   description = """
-  Extracting the needed data from devices manuals of different companies.
+  Extracting the needed data from different manuals of devices of different companies.
   """
   
 [[experience]]
