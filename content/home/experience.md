@@ -19,6 +19,17 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Entry"
+  company = "omnio"
+  company_url = "https://www.omnio.net"
+  location = "Copenhagen"
+  date_start = "2019-05-06"
+  date_end = ""
+  description = """
+  Extracting the needed data from devices manuals of different companies.
+  """
+  
+[[experience]]
   title = "IT Consultant"
   company = "BetterCosultants"
   company_url = "http://www.betterconsultants.es/eng/"
