@@ -18,7 +18,7 @@ weight = 30
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Phyton"
+  name = "Python"
   description = "80%"
   
 [[feature]]
