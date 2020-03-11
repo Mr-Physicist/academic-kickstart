@@ -25,7 +25,8 @@ email = ""
 interests = [
   "Gauge/Gravity Duality",
   "String/M Theory",
-  "Early Universe Physics"
+  "Early Universe Physics",
+  "The Wave Function of the Universe
 ]
 
 # Organizational groups that you belong to (for People widget)
