@@ -13,10 +13,10 @@ role = "Physics Master's Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Copenhagen", url = "" } ]
+organizations = [ { name = "University of Copenhagen", url = "" }, { name = "Niels Bohr International Academy", url = "https://nbia.nbi.ku.dk/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include studying the cluster decomposition principle using the wave function of the universe framework."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -26,7 +26,7 @@ interests = [
   "Gauge/Gravity Duality",
   "String/M Theory",
   "Early Universe Physics",
-  "The Wave Function of the Universe
+  "The Wave Function of the Universe"
 ]
 
 # Organizational groups that you belong to (for People widget)
