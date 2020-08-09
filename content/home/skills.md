@@ -40,8 +40,8 @@ weight = 30
   description = "Scikit/Keras/Scrapy"
   
  [[feature]]
-  icon = "database"
-  icon_pack = "fas"
+  icon = "machine-learning"
+  icon_pack = ""
   name = "Big Data"
   description = "Dask/Spark"
 
