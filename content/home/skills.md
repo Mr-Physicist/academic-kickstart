@@ -41,7 +41,7 @@ weight = 30
   
  [[feature]]
   icon = "machine-learning"
-#  icon_pack = ""
+  icon_pack = "icon"
   name = "Big Data"
   description = "Dask/Spark"
 
