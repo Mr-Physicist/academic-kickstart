@@ -22,15 +22,15 @@ weight = 30
   description = "80%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "fa-chart-bar"
+  icon_pack = "far"
+  name = "Data Science"
   description = "100%"  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
+  name = "Machine Learning"
   description = "90%" 
 
 +++
