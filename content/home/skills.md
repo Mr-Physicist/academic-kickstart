@@ -19,18 +19,18 @@ weight = 30
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "Numpy"
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Data Science"
-  description = "100%"  
+  description = "Pandas"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "90%" 
+  description = "Scikit" 
 
 +++
