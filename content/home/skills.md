@@ -22,8 +22,8 @@ weight = 30
   description = "80%"
   
 [[feature]]
-  icon = "fa-chart-bar"
-  icon_pack = "far"
+  icon = "chart-bar"
+  icon_pack = "fa"
   name = "Data Science"
   description = "100%"  
   
