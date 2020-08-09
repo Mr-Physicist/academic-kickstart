@@ -20,13 +20,20 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Data Entry"
-  company = "omnio"
+  company = "Omnio IoT"
   company_url = "https://www.omnio.net"
   location = "Copenhagen"
   date_start = "2019-05-06"
-  date_end = ""
+  date_end = "2020-07-22"
   description = """
-  Extracting the needed data from different manuals of devices of different companies.
+  Extracting the needed data from different manuals and websites in order to feed our edge software.
+  
+  Responsibilities include:
+  
+  * Creating Excel Macro
+  * Documentation
+  * Processing and formating data
+  * Quality control during all the processes 
   """
   
 [[experience]]
