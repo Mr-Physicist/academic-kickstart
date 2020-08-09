@@ -31,7 +31,13 @@ weight = 30
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Scikit/Keras/Scrapy" 
+  description = "Scikit/Scrapy" 
+  
+ [[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "Scikit/Keras/Scrapy"
   
  [[feature]]
   icon = "database"
