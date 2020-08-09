@@ -23,7 +23,7 @@ weight = 30
   
 [[feature]]
   icon = "chart-bar"
-  icon_pack = "fa"
+  icon_pack = "far"
   name = "Data Science"
   description = "100%"  
   
