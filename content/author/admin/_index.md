@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Physics Master's Student"
+role = "MSc in Quantum Physics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,10 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Gauge/Gravity Duality",
-  "String/M Theory",
   "Early Universe Physics",
-  "The Wave Function of the Universe"
+  "The Wave Function of the Universe",
+  "Machine Learnig",
+  "Big Data",
+  "IoT"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -84,5 +85,5 @@ interests = [
 
 +++
 
-Daniel Lozano is a physics master's student at the University of Copenhagen. His interests include the holographic principle, the correspondece between String Theories and Gauge theories and Early Universe Physics. He co-founded the Spanish Physics Student Association with the endorsment of the Spanish Royal Society of Physics.
+Daniel Lozano is studied a master degree in quantum physics at the University of Copenhagen. His interests included the holographic principle, the correspondece between String Theories and Gauge theories and Early Universe Physics. After finalizing his master's studies, he started to apply all the skills aquired to the fields of machine learning and AI.
 
