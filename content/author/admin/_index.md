@@ -85,5 +85,5 @@ interests = [
 
 +++
 
-Daniel Lozano is studied a master degree in quantum physics at the University of Copenhagen. His interests included the holographic principle, the correspondece between String Theories and Gauge theories and Early Universe Physics. After finalizing his master's studies, he started to apply all the skills aquired to the fields of machine learning and AI.
+Daniel Lozano has studied a master degree in quantum physics at the University of Copenhagen. His interests included the holographic principle, the correspondece between String Theories and Gauge theories and Early Universe Physics. After finalizing his master's studies, he started to apply all the skills aquired to the fields of machine learning and AI to become a Data Scientist expert.
 
