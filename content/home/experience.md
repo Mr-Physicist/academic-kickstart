@@ -38,6 +38,24 @@ Responsibilities include:
 """
 
 [[experience]]
+title = Adjunct Professor"
+company = "University Pompeu Fabra"
+company_url = "https://www.upf.edu/"
+location = "Barcelona"
+date_start = "2022-10-16"
+date_end = ""
+description = """
+Teaching the seminars for the class "Financial Derivatives and Risk Management.
+
+Responsibilities include:
+
+* Price computation for forwards, futures, and options.
+* Statistic analysis using Python of financial derivatives.
+* Monte Carlo and Random Walks simulations to compute the price of derivatives
+
+"""
+
+[[experience]]
 title = "Lead Data Scientist"
 company = "Data Innovation Lab"
 company_url = "https://www.linkedin.com/company/datainnovation-lab/"
