@@ -15,11 +15,7 @@ weight = 30
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "users-rectangle"
-  icon_pack = "fas"
-  name = "Team Lead"
-  description = "" 
+
 
 [[feature]]
   icon = "laptop-code"
@@ -44,6 +40,12 @@ weight = 30
   icon_pack = "far"
   name = "Data Science"
   description = ""  
+
+[[feature]]
+  icon = "users-rectangle"
+  icon_pack = "fas"
+  name = "Team Lead"
+  description = "" 
   
 
 
