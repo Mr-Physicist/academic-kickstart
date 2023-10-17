@@ -9,20 +9,21 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc in Quantum Physics"
+role = "Senior ML Engineer/ Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Copenhagen", url = "" }, { name = "Niels Bohr International Academy", url = "https://nbia.nbi.ku.dk/"} ]
+organizations = [ { name = "Newtonspace Lab", url = "https://www.newtonlabspace.com/" }, { name = University Pompeu Fabra", url = "https://www.upf.edu/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include studying the cluster decomposition principle using the wave function of the universe framework."
+bio = "Physicist reconfigured to ML Engineer and Data Scientist. I bounce between a full-time job in a company and lecturing at UPF about "Financial Derivatives and Risk Management"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Computer Vision",
   "Machine Learning",
   "Big Data",
   "IoT"
