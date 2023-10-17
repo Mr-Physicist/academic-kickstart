@@ -17,7 +17,7 @@ weight = 30
 
 [[feature]]
   icon = "people-group"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Team Lead"
   description = "" 
 
