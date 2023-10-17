@@ -28,8 +28,8 @@ weight = 30
   description = "" 
 
 [[feature]]
-  icon = "fa-object-group"
-  icon_pack = "fa"
+  icon = "fa-robot"
+  icon_pack = "fa-solid"
   name = "Computer Vision"
   description = "" 
 
