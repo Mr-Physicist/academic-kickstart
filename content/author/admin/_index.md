@@ -16,7 +16,7 @@ role = "Senior ML Engineer/ Data Scientist"
 organizations = [ { name = "Newtonspace Lab", url = "https://www.newtonlabspace.com/" }, { name = "University Pompeu Fabra", url = "https://www.upf.edu/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Physicist reconfigured to ML Engineer and Data Scientist. I bounce between a full-time job in a company and lecturing at UPF about "Financial Derivatives and Risk Management"
+bio = "Physicist reconfigured to ML Engineer and Data Scientist. I bounce between a full-time job in a company and lecturing at UPF about Financial Derivatives and Risk Management"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
