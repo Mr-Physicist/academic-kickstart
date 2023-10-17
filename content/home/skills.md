@@ -16,7 +16,7 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-hands-helping"
+  icon = "hands-helping"
   icon_pack = "fas"
   name = "Team Lead"
   description = "" 
