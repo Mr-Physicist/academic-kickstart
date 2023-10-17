@@ -18,6 +18,43 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+title = "Senior Data Scientist/ML Engineer"
+company = "Newtonlab Space"
+company_url = "https://www.newtonlabspace.com/"
+location = "Barcelona"
+date_start = "2023-08-28"
+date_end = ""
+description = """
+Making all the AI-related products, in particular in the area of computer vision.
+
+Responsibilities include:
+
+* Implementing in-house created ML algorithms for object detection
+* Optimizing final models to work on very basic edge devices
+* Creating the data/DB structure and communications model-server
+
+"""
+
+[[experience]]
+title = "Lead Data Scientist"
+company = "Data Innovation Lab"
+company_url = "https://www.linkedin.com/company/datainnovation-lab/"
+location = "Barcelona"
+date_start = "2021-04-01"
+date_end = "2023-07-31"
+description = """
+Creating from scratch all the Data and AI branches of the company and leading a team making end-to-end products.
+
+Responsibilities include:
+
+* Create end-to-end AI solutions using state-of-the-art machine learning algorithms
+* Design and implement new applications where AI improves the previous results
+* Design dashboards and metrics to monitor all the machine learning pipelines
+* Explore new ways of applying AI from political analysis to social interactions
+"""
+
 [[experience]]
   title = "Data Entry"
   company = "Omnio IoT"
@@ -32,7 +69,7 @@ date_format = "January 2006"
   
   * Creating Excel Macro
   * Documentation
-  * Processing and formating data
+  * Processing and formatting data
   * Quality control during all the processes 
   """
   
