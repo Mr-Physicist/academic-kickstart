@@ -13,7 +13,7 @@ role = "Senior ML Engineer/ Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Newtonspace Lab", url = "https://www.newtonlabspace.com/" }, { name = University Pompeu Fabra", url = "https://www.upf.edu/"} ]
+organizations = [ { name = "Newtonspace Lab", url = "https://www.newtonlabspace.com/" }, { name = "University Pompeu Fabra", url = "https://www.upf.edu/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Physicist reconfigured to ML Engineer and Data Scientist. I bounce between a full-time job in a company and lecturing at UPF about "Financial Derivatives and Risk Management"
