@@ -16,6 +16,24 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "fa-hands-helping"
+  icon_pack = "fas"
+  name = "Team Lead"
+  description = "" 
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "ML Engineer"
+  description = "" 
+
+[[feature]]
+  icon = "fa-robot"
+  icon_pack = "fas"
+  name = "Computer Vision"
+  description = "" 
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -27,10 +45,6 @@ weight = 30
   name = "Data Science"
   description = ""  
   
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "ML Engineer"
-  description = "" 
+
 
 +++
