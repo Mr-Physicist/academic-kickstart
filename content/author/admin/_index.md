@@ -9,8 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior ML Engineer /
-
+role = "Senior ML Engineer &
 Data Scientist"
 
 # Organizations/Affiliations
