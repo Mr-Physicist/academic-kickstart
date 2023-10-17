@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior ML Engineer/ Data Scientist"
+role = "Senior ML Engineer / Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,6 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Computer Vision",
   "Machine Learning",
   "Big Data",
   "IoT"
