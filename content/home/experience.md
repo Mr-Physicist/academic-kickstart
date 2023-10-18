@@ -82,22 +82,13 @@ Responsibilities include:
   date_start = "2017-09-27"
   date_end = "2018-06-01"
   description = """
-  Developing new programs based in COBOL, SQL and Java for the client.
+  Developing new programs based in COBOL, SQL, and Java for the client.
 
   Responsibilities include:
   
   * Programming in COBOL & SQL
   * Documentation
-  * Migrating enviroment to the newest version
+  * Migrating environment to the newest version
   """
-
-[[experience]]
-  title = "Teacher"
-  company = "Psicoform"
-  company_url = "http://www.actiweb.es/psicoform/"
-  location = "Barcelona"
-  date_start = "2015-07-01"
-  date_end = "2016-01-01"
-  description = """Private lessons to High School students."""
 
 +++
