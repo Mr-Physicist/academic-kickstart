@@ -42,6 +42,12 @@ weight = 30
   description = "" 
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Economy Simulations"
+  description = ""
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
