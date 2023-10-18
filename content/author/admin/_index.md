@@ -84,9 +84,9 @@ interests = [
 
 +++
 
-Daniel Lozano has studied for a Master's Degree in Quantum Physics at the University of Copenhagen. His interests, during this time, included the Holographic Principle, the correspondence between String Theories and Gauge theories and Early Universe Physics.
+Daniel Lozano has studied for a Master's Degree in Quantum Physics at the University of Copenhagen. His interests, during this time, included the Holographic Principle, the correspondence between String Theories and Gauge theories, and Early Universe Physics.
 
-After finalizing his master’s studies, he started to apply all the skills acquired in the fields of Machine Learning and AI, to become a Data Scientist/ ML Engineer. Currently, the main areas of expertise are data analysis and NLP (Natural Language Processing) using Python and image processing including libraries such as OpenCV, Pandas, Tensorflow…
+After finalizing his master’s studies, he started to apply all the skills acquired in the fields of Machine Learning and AI, to become a Data Scientist/ ML Engineer. Currently, the main areas of expertise are Computer Vision and NLP (Natural Language Processing) using Python and image processing including libraries such as OpenCV, Pandas, Tensorflow…
 
 His interests diversify from pure programming and research in physics, as he co-founded the Spanish Association of Physic Students (AEEF) and also the student branch of the Physics Catalan Society.
 
