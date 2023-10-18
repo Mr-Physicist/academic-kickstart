@@ -27,14 +27,8 @@ weight = 30
   icon = "robot"
   icon_pack = "fas"
   name = "Computer Vision"
-  description = "" 
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
   description = ""
-  
+
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
@@ -46,7 +40,11 @@ weight = 30
   icon_pack = "fas"
   name = "Team Lead"
   description = "" 
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
   
-
-
 +++
