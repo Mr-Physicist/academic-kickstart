@@ -42,7 +42,7 @@ weight = 30
   description = ""  
 
 [[feature]]
-  icon = "users-rectangle"
+  icon = "people-line"
   icon_pack = "fas"
   name = "Team Lead"
   description = "" 
